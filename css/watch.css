@@ -240,7 +240,7 @@ a {
 }
 
 /* same map as on the big screen, made smaller.
-   left/top = middle of the watch, --x/--y = point of the map we look at */
+   left/top = middle of the watch, the transform on each page = how far we zoom and what part we look at */
 .watch-map .map-content {
   position: absolute;
   left: 50%;
@@ -248,7 +248,6 @@ a {
   width: 808px;
   height: 660px;
   transform-origin: 0 0;
-  transform: scale(var(--zoom)) translate(calc(var(--x) * -1px), calc(var(--y) * -1px));
 }
 
 .map-drawing {
