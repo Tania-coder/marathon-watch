@@ -1,0 +1,103 @@
+<svg width="1408" height="860" viewBox="-300 -100 1408 860" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="-300" y="-100" width="1408" height="860" fill="#F3F0E8"/>
+
+  <g fill="#EAE5D9">
+    <rect x="20" y="20" width="150" height="100" rx="10"/>
+    <rect x="240" y="190" width="110" height="120" rx="10"/>
+    <rect x="380" y="230" width="150" height="70" rx="10"/>
+    <rect x="250" y="380" width="120" height="90" rx="10"/>
+    <rect x="420" y="400" width="110" height="120" rx="10"/>
+    <rect x="590" y="20" width="110" height="110" rx="10"/>
+    <rect x="20" y="430" width="140" height="70" rx="10"/>
+    <rect x="600" y="430" width="70" height="200" rx="10"/>
+    <rect x="-280" y="-80" width="150" height="120" rx="10"/>
+    <rect x="-260" y="200" width="180" height="100" rx="10"/>
+    <rect x="-270" y="380" width="150" height="110" rx="10"/>
+    <rect x="-250" y="650" width="200" height="90" rx="10"/>
+    <rect x="20" y="-90" width="140" height="70" rx="10"/>
+    <rect x="250" y="-90" width="160" height="60" rx="10"/>
+    <rect x="200" y="690" width="140" height="60" rx="10"/>
+    <rect x="640" y="680" width="80" height="60" rx="10"/>
+    <rect x="960" y="-60" width="120" height="140" rx="10"/>
+    <rect x="950" y="350" width="140" height="120" rx="10"/>
+    <rect x="960" y="560" width="120" height="150" rx="10"/>
+  </g>
+
+  <g fill="#D3E6C4">
+    <rect x="350" y="30" width="190" height="90" rx="34"/>
+    <rect x="390" y="560" width="140" height="70" rx="30"/>
+    <rect x="660" y="420" width="70" height="110" rx="26"/>
+    <rect x="-260" y="60" width="170" height="110" rx="40"/>
+    <rect x="980" y="140" width="100" height="150" rx="34"/>
+  </g>
+
+  <g fill="#C4DDEA">
+    <ellipse cx="70" cy="130" rx="22" ry="45" transform="rotate(-18 70 130)"/>
+    <ellipse cx="95" cy="250" rx="26" ry="60" transform="rotate(-18 95 250)"/>
+    <ellipse cx="120" cy="370" rx="26" ry="50" transform="rotate(-18 120 370)"/>
+    <path d="M780 -100C752 150 792 300 752 420C722 520 762 600 740 760H900C930 600 880 450 920 300C950 150 900 50 930 -100Z"/>
+  </g>
+
+  <g stroke="#FFFFFF" stroke-width="6" stroke-linecap="round">
+    <path d="M-300 341L760 302"/>
+    <path d="M-300 631L740 593"/>
+    <path d="M84 -100L136 760"/>
+    <path d="M435 -100L474 760"/>
+    <path d="M200 130L560 170"/>
+    <path d="M340 380L700 560"/>
+    <path d="M-150 -100L-120 760"/>
+    <path d="M920 520L1108 500"/>
+    <path d="M1020 -100L1000 760"/>
+  </g>
+
+  <g stroke-linecap="butt">
+    <path d="M-300 572L1108 328" stroke="#DCD5C6" stroke-width="26"/>
+    <path d="M182 -100L337 760" stroke="#DCD5C6" stroke-width="22"/>
+    <path d="M-300 113L1108 287" stroke="#DCD5C6" stroke-width="20"/>
+    <path d="M652 -100L548 760" stroke="#DCD5C6" stroke-width="18"/>
+    <path d="M-300 572L1108 328" stroke="#FFFFFF" stroke-width="22"/>
+    <path d="M182 -100L337 760" stroke="#FFFFFF" stroke-width="18"/>
+    <path d="M-300 113L1108 287" stroke="#FFFFFF" stroke-width="16"/>
+    <path d="M652 -100L548 760" stroke="#FFFFFF" stroke-width="14"/>
+  </g>
+
+  <g font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#9A8F9E" letter-spacing="0.5" text-anchor="middle">
+    <text x="110" y="505" transform="rotate(-9.8 110 505)">VESTERBROGADE</text>
+    <text x="520" y="218" transform="rotate(7 520 218)">NØRRE VOLDGADE</text>
+    <text x="216" y="90" transform="rotate(79.8 216 90)">H.C. ANDERSENS BLVD</text>
+    <text x="570" y="610" transform="rotate(-83.1 570 610)">BREDGADE</text>
+    <text x="1030" y="440" letter-spacing="1.5">CHRISTIANSHAVN</text>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="11" font-style="italic" text-anchor="middle">
+    <text x="445" y="80" fill="#6E9A5B">Kongens Have</text>
+    <text x="460" y="600" fill="#6E9A5B">Ørstedsparken</text>
+    <text x="-175" y="120" fill="#6E9A5B">Frederiksberg Have</text>
+    <text x="822" y="560" fill="#5E8DA6" transform="rotate(-84 822 560)">Inderhavnen</text>
+    <text x="70" y="330" fill="#5E8DA6">Søerne</text>
+  </g>
+
+  <path d="M20 619L105 620Q127 620 126 598L101 184Q100 162 122 165L591 223Q613 226 610 248L592 396Q589 418 586 440L570 577Q567 599 545 600L489 602Q467 603 466 581L460 462Q459 440 437 444L307 467Q285 471 281 449L262 342Q258 320 280 319L432 314Q454 313 453 291L447 157" stroke="#FFFFFF" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M20 619L105 620Q127 620 126 598L101 184Q100 162 122 165L591 223Q613 226 610 248L592 396Q589 418 586 440L570 577Q567 599 545 600L489 602Q467 603 466 581L460 462Q459 440 437 444L307 467Q285 471 281 449L262 342Q258 320 280 319L432 314Q454 313 453 291L447 157" stroke="#EBC9DD" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <path d="M20 619L105 620Q127 620 126 598L101 184Q100 162 122 165L591 223Q613 226 610 248L592 396Q589 418 586 440L570 577Q567 599 545 600L489 602Q467 603 466 581L460 462Q459 440 437 444L307 467Q285 471 281 449L262 342Q258 320 280 319L414 314" stroke="#E8337A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <g font-family="Arial, sans-serif" font-size="9" font-weight="700" text-anchor="middle">
+    <circle cx="105" cy="169" r="12" fill="#FFFFFF" stroke="#E8337A" stroke-width="2"/>
+    <text x="105" y="172" fill="#E8337A">10K</text>
+    <circle cx="607" cy="272" r="12" fill="#FFFFFF" stroke="#E8337A" stroke-width="2"/>
+    <text x="607" y="275" fill="#E8337A">20K</text>
+    <circle cx="460" cy="466" r="12" fill="#FFFFFF" stroke="#E8337A" stroke-width="2"/>
+    <text x="460" y="469" fill="#E8337A">30K</text>
+    <circle cx="452" cy="279" r="12" fill="#FFFFFF" stroke="#E8337A" stroke-width="2"/>
+    <text x="452" y="282" fill="#E8337A">40K</text>
+  </g>
+
+  <g font-family="Arial, sans-serif" font-size="10" font-weight="700" text-anchor="middle">
+    <circle cx="20" cy="619" r="9" fill="#2B0F3A" stroke="#FFFFFF" stroke-width="3"/>
+    <rect x="-6" y="586" width="52" height="18" rx="9" fill="#2B0F3A"/>
+    <text x="20" y="599" fill="#FFFFFF">START</text>
+    <circle cx="447" cy="157" r="9" fill="#E8337A" stroke="#FFFFFF" stroke-width="3"/>
+    <rect x="417" y="121" width="60" height="18" rx="9" fill="#E8337A"/>
+    <text x="447" y="134" fill="#FFFFFF">FINISH</text>
+  </g>
+</svg>

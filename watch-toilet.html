@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en" translate="no" class="notranslate">
+<head>
+  <meta charset="UTF-8">
+  <meta name="google" content="notranslate"> <!-- stop Chrome auto-translate, we have our own EN/DK -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Toilets - Apple Watch</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/watch.css">
+</head>
+<body>
+<div class="watch">
+  <div class="watch-screen">
+
+    <header class="watch-top">
+      <a class="watch-back" href="watch.html" aria-label="Back"><span>‹</span>Toilets</a>
+      <span class="watch-time">10:09</span>
+    </header>
+
+    <!-- map: same drawing as the big screen, --x/--y = place we look at -->
+    <div class="watch-map">
+      <div class="map-content" style="--x: 400; --y: 282; --zoom: 0.9;">
+        <img class="map-drawing" src="images/map-equipment.svg" alt="">
+        <svg class="route-dash" width="808" height="660" aria-hidden="true">
+          <line x1="414" y1="314" x2="385" y2="250"/>
+        </svg>
+        <div class="you"></div>
+        <div class="pin toilet-1"><img src="images/icon-toilet.svg" alt="Toilet D"></div>
+      </div>
+    </div>
+
+    <a class="watch-card" href="watch-toilet-wait.html">
+      <p class="watch-big">1 km <span>left</span></p>
+      <p class="watch-sub">Toilet D · ~12 min <span>›</span></p>
+    </a>
+
+  </div>
+</div>
+
+<script src="js/lang.js"></script>
+<script src="js/watch.js"></script>
+</body>
+</html>
